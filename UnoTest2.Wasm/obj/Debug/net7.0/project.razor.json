@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "/workspace/UnoTest2/UnoTest2.Wasm/obj/Debug/net7.0/project.razor.json",
+  "FilePath": "/workspace/UnoTest2/UnoTest2.Wasm/UnoTest2.Wasm.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "7.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "UnoTest2.Wasm",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}

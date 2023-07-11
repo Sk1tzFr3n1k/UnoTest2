@@ -1,0 +1,1777 @@
+{
+  "Files": [
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/manifest.webmanifest",
+      "PackagePath": "staticwebassets/manifest.webmanifest"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/AppManifest.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/AppManifest.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Fonts.css",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Fonts.css"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.Fonts.Fluent/Fonts/uno-fluentui-assets.ttf",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.Fonts.Fluent/Fonts/uno-fluentui-assets.ttf"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.Fonts.Roboto/Fonts/Roboto-Light.ttf",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.Fonts.Roboto/Fonts/Roboto-Light.ttf"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.Fonts.Roboto/Fonts/Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.Fonts.Roboto/Fonts/Roboto-Medium.ttf"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.Fonts.Roboto/Fonts/Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.Fonts.Roboto/Fonts/Roboto-Regular.ttf"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.UI.css",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.UI.css"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.UI.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Uno.UI.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2.Wasm",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2.Wasm"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2.Wasm.staticwebassets.runtime.json",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2.Wasm.staticwebassets.runtime.json"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2.uprimarker",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2.uprimarker"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-100.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-100.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-125.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-125.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-150.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-150.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-200.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-200.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-300.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-300.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-400.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.scale-400.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.svg",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/Icons/back.svg"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/SharedAssets.md",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/UnoTest2/Assets/SharedAssets.md"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Unomanifest.webmanifest",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/Unomanifest.webmanifest"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/WasmWebSockets.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/WasmWebSockets.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/corebindings.c",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/corebindings.c"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet-legacy.d.ts",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet-legacy.d.ts"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.d.ts",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.d.ts"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.js.symbols",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.js.symbols"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.timezones.blat",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.timezones.blat"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.wasm",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/dotnet.wasm"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/driver.c",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/driver.c"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/emcc-compile.rsp",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/emcc-compile.rsp"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/emcc-default.rsp",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/emcc-default.rsp"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/emcc-link.rsp",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/emcc-link.rsp"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/emcc-props.json",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/emcc-props.json"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/gc-common.h",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/gc-common.h"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/iconapp-128.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/iconapp-128.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/iconapp-16.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/iconapp-16.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/iconapp-32.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/iconapp-32.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/iconapp-512.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/iconapp-512.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/icudt.dat",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/icudt.dat"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/icudt_CJK.dat",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/icudt_CJK.dat"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/icudt_EFIGS.dat",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/icudt_EFIGS.dat"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/icudt_no_CJK.dat",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/icudt_no_CJK.dat"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/lottie.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/lottie.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/CommonServiceLocator.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/CommonServiceLocator.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Bcl.AsyncInterfaces.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Bcl.AsyncInterfaces.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.Abstractions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.Abstractions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.Binder.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.Binder.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.CommandLine.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.CommandLine.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.EnvironmentVariables.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.EnvironmentVariables.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.FileExtensions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.FileExtensions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.Json.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.Json.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.UserSecrets.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.UserSecrets.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Configuration.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.DependencyInjection.Abstractions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.DependencyInjection.Abstractions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.DependencyInjection.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.DependencyInjection.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.DependencyModel.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.DependencyModel.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.FileProviders.Abstractions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.FileProviders.Abstractions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.FileProviders.Physical.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.FileProviders.Physical.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.FileSystemGlobbing.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.FileSystemGlobbing.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Hosting.Abstractions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Hosting.Abstractions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Hosting.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Hosting.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Http.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Http.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Localization.Abstractions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Localization.Abstractions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.Abstractions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.Abstractions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.Configuration.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.Configuration.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.Console.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.Console.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.Debug.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.Debug.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.EventLog.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.EventLog.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.EventSource.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.EventSource.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Logging.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Options.ConfigurationExtensions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Options.ConfigurationExtensions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Options.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Options.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Primitives.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Extensions.Primitives.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.IO.RecyclableMemoryStream.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.IO.RecyclableMemoryStream.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Win32.Primitives.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Win32.Primitives.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Win32.Primitives.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Microsoft.Win32.Primitives.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Newtonsoft.Json.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Newtonsoft.Json.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Refit.HttpClientFactory.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Refit.HttpClientFactory.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Refit.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Refit.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Extensions.Logging.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Settings.Configuration.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Settings.Configuration.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Sinks.Console.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Sinks.Console.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Sinks.Debug.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Sinks.Debug.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Sinks.File.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Sinks.File.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Sinks.File.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.Sinks.File.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Serilog.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Buffers.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Buffers.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Buffers.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Buffers.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Concurrent.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Concurrent.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Concurrent.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Concurrent.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Immutable.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Immutable.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Immutable.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Immutable.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.NonGeneric.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.NonGeneric.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.NonGeneric.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.NonGeneric.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Specialized.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Specialized.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Specialized.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.Specialized.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Collections.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.EventBasedAsync.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.EventBasedAsync.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.EventBasedAsync.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.EventBasedAsync.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.Primitives.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.Primitives.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.Primitives.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.Primitives.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.TypeConverter.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.TypeConverter.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.TypeConverter.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.TypeConverter.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ComponentModel.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Console.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Console.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Console.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Console.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Data.Common.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Data.Common.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Data.Common.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Data.Common.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Contracts.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Contracts.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Contracts.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Contracts.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Debug.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Debug.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Debug.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Debug.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.DiagnosticSource.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.DiagnosticSource.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.DiagnosticSource.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.DiagnosticSource.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.EventLog.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.EventLog.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.FileVersionInfo.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.FileVersionInfo.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.FileVersionInfo.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.FileVersionInfo.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Process.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Process.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Process.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Process.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.StackTrace.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.StackTrace.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.StackTrace.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.StackTrace.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.TextWriterTraceListener.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.TextWriterTraceListener.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.TextWriterTraceListener.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.TextWriterTraceListener.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Tools.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Tools.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Tools.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Tools.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.TraceSource.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.TraceSource.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.TraceSource.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.TraceSource.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Tracing.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Tracing.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Tracing.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Diagnostics.Tracing.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Drawing.Primitives.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Drawing.Primitives.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Drawing.Primitives.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Drawing.Primitives.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Formats.Asn1.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Formats.Asn1.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Formats.Asn1.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Formats.Asn1.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.Brotli.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.Brotli.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.Brotli.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.Brotli.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.ZipFile.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.ZipFile.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.ZipFile.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.ZipFile.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Compression.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.DriveInfo.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.DriveInfo.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.DriveInfo.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.DriveInfo.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.Watcher.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.Watcher.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.Watcher.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.Watcher.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.FileSystem.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.IsolatedStorage.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.IsolatedStorage.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.IsolatedStorage.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.IsolatedStorage.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.MemoryMappedFiles.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.MemoryMappedFiles.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.MemoryMappedFiles.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.MemoryMappedFiles.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Pipes.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Pipes.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Pipes.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.IO.Pipes.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Async.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Async.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Expressions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Expressions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Expressions.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Expressions.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Parallel.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Parallel.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Parallel.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Parallel.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Queryable.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Queryable.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Queryable.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.Queryable.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Linq.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Memory.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Memory.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Memory.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Memory.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Http.Json.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Http.Json.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Http.Json.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Http.Json.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Http.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Http.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Http.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Http.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.HttpListener.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.HttpListener.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.HttpListener.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.HttpListener.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Mail.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Mail.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Mail.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Mail.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.NameResolution.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.NameResolution.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.NameResolution.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.NameResolution.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.NetworkInformation.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.NetworkInformation.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.NetworkInformation.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.NetworkInformation.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Ping.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Ping.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Ping.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Ping.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Primitives.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Primitives.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Primitives.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Primitives.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Requests.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Requests.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Requests.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Requests.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Security.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Security.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Security.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Security.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.ServicePoint.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.ServicePoint.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.ServicePoint.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.ServicePoint.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Sockets.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Sockets.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Sockets.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.Sockets.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebClient.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebClient.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebClient.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebClient.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebHeaderCollection.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebHeaderCollection.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebHeaderCollection.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebHeaderCollection.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebProxy.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebProxy.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebProxy.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebProxy.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebSockets.Client.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebSockets.Client.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebSockets.Client.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebSockets.Client.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebSockets.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebSockets.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebSockets.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Net.WebSockets.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Numerics.Vectors.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Numerics.Vectors.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Numerics.Vectors.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Numerics.Vectors.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ObjectModel.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ObjectModel.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ObjectModel.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.ObjectModel.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.CoreLib.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.CoreLib.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.CoreLib.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.CoreLib.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.DataContractSerialization.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.DataContractSerialization.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.DataContractSerialization.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.DataContractSerialization.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Uri.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Uri.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Uri.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Uri.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Xml.Linq.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Xml.Linq.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Xml.Linq.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Xml.Linq.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Xml.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Xml.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Xml.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Private.Xml.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.DispatchProxy.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.DispatchProxy.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.DispatchProxy.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.DispatchProxy.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.ILGeneration.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.ILGeneration.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.ILGeneration.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.ILGeneration.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.Lightweight.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.Lightweight.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.Lightweight.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.Lightweight.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Emit.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Metadata.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Metadata.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Metadata.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Metadata.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Primitives.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Primitives.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Primitives.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Reflection.Primitives.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Resources.ResourceManager.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Resources.ResourceManager.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Resources.ResourceManager.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Resources.ResourceManager.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Resources.Writer.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Resources.Writer.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Resources.Writer.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Resources.Writer.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.CompilerServices.Unsafe.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.CompilerServices.Unsafe.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.CompilerServices.Unsafe.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.CompilerServices.Unsafe.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.CompilerServices.VisualC.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.CompilerServices.VisualC.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.CompilerServices.VisualC.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.CompilerServices.VisualC.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Extensions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Extensions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Extensions.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Extensions.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.JavaScript.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.JavaScript.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.JavaScript.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.JavaScript.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.RuntimeInformation.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.RuntimeInformation.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.RuntimeInformation.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.RuntimeInformation.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.InteropServices.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Intrinsics.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Intrinsics.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Intrinsics.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Intrinsics.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Loader.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Loader.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Loader.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Loader.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Numerics.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Numerics.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Numerics.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Numerics.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Formatters.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Formatters.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Formatters.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Formatters.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Json.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Json.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Json.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Json.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Primitives.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Primitives.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Primitives.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Primitives.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Xml.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Xml.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Xml.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.Serialization.Xml.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Runtime.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Claims.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Claims.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Claims.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Claims.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.Algorithms.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.Algorithms.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.Algorithms.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.Algorithms.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.Primitives.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.Primitives.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.Primitives.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.Primitives.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Cryptography.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Principal.Windows.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Principal.Windows.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Principal.Windows.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Security.Principal.Windows.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Encoding.Extensions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Encoding.Extensions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Encoding.Extensions.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Encoding.Extensions.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Encodings.Web.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Encodings.Web.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Encodings.Web.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Encodings.Web.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Json.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Json.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Json.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.Json.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.RegularExpressions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.RegularExpressions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.RegularExpressions.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Text.RegularExpressions.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Overlapped.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Overlapped.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Overlapped.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Overlapped.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.Extensions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.Extensions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.Extensions.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.Extensions.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.Parallel.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.Parallel.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.Parallel.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.Parallel.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Tasks.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Thread.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Thread.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Thread.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.Thread.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.ThreadPool.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.ThreadPool.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.ThreadPool.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.ThreadPool.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Threading.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Transactions.Local.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Transactions.Local.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Transactions.Local.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Transactions.Local.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Web.HttpUtility.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Web.HttpUtility.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Web.HttpUtility.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Web.HttpUtility.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.ReaderWriter.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.ReaderWriter.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.ReaderWriter.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.ReaderWriter.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XDocument.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XDocument.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XDocument.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XDocument.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XPath.XDocument.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XPath.XDocument.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XPath.XDocument.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XPath.XDocument.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XPath.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XPath.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XPath.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XPath.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XmlSerializer.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XmlSerializer.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XmlSerializer.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/System.Xml.XmlSerializer.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Collections.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Collections.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Collections.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Collections.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Disposables.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Disposables.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Disposables.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Disposables.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Equality.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Equality.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Equality.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Equality.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Logging.Singleton.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Logging.Singleton.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Logging.Singleton.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Logging.Singleton.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Logging.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Logging.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.Logging.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Core.Extensions.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Diagnostics.Eventing.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Diagnostics.Eventing.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Diagnostics.Eventing.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Diagnostics.Eventing.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Configuration.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Configuration.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Configuration.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Configuration.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Core.UI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Core.UI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Core.UI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Core.UI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Core.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Core.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Core.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Core.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Hosting.WinUI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Hosting.WinUI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Hosting.WinUI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Hosting.WinUI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Hosting.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Hosting.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Hosting.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Hosting.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Http.Refit.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Http.Refit.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Http.Refit.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Http.Refit.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Http.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Http.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Http.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Http.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Localization.WinUI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Localization.WinUI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Localization.WinUI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Localization.WinUI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Localization.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Localization.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Localization.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Localization.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.Serilog.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.Serilog.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.Serilog.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.Serilog.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.WebAssembly.Console.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.WebAssembly.Console.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.WinUI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.WinUI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.WinUI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Logging.WinUI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.Toolkit.UI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.Toolkit.UI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.Toolkit.UI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.Toolkit.UI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.UI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.UI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.UI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.UI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Navigation.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Reactive.UI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Reactive.UI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Reactive.UI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Reactive.UI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Reactive.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Reactive.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Reactive.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Reactive.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Serialization.Refit.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Serialization.Refit.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Serialization.Refit.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Serialization.Refit.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Serialization.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Serialization.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Serialization.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Serialization.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Storage.UI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Storage.UI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Storage.UI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Storage.UI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Storage.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Storage.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Storage.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Storage.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Toolkit.UI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Toolkit.UI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Toolkit.UI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Toolkit.UI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Toolkit.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Toolkit.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Toolkit.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Extensions.Toolkit.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.Logging.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.Logging.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.Logging.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.Logging.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.Runtime.WebAssembly.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.Runtime.WebAssembly.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.Runtime.WebAssembly.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.Runtime.WebAssembly.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Foundation.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Material.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Material.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Material.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Material.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.WinUI.Material.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.WinUI.Material.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.WinUI.Material.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.WinUI.Material.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.WinUI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.WinUI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.WinUI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.WinUI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Toolkit.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Adapter.Microsoft.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Adapter.Microsoft.Extensions.Logging.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Adapter.Microsoft.Extensions.Logging.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Adapter.Microsoft.Extensions.Logging.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Composition.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Composition.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Composition.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Composition.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Dispatching.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Dispatching.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Dispatching.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Dispatching.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.FluentTheme.v2.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.FluentTheme.v2.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.FluentTheme.v2.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.FluentTheme.v2.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Lottie.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Lottie.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Lottie.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Lottie.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.RemoteControl.Messaging.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.RemoteControl.Messaging.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.RemoteControl.Messaging.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.RemoteControl.Messaging.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.RemoteControl.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.RemoteControl.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.RemoteControl.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.RemoteControl.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Runtime.WebAssembly.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Runtime.WebAssembly.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Runtime.WebAssembly.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Runtime.WebAssembly.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Toolkit.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Toolkit.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Toolkit.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.Toolkit.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.UI.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Wasm.MetadataUpdater.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Wasm.MetadataUpdater.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Wasm.MetadataUpdater.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Wasm.MetadataUpdater.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Wasm.TimezoneData.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Wasm.TimezoneData.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Wasm.TimezoneData.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Wasm.TimezoneData.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Xaml.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Xaml.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Xaml.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.Xaml.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/Uno.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.DataContracts.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.DataContracts.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.DataContracts.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.DataContracts.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.Wasm.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.Wasm.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.Wasm.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.Wasm.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/UnoTest2.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/netstandard.clr",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/netstandard.clr"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/netstandard.pdb",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/managed/netstandard.pdb"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/manifest.webmanifest",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/manifest.webmanifest"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/mono-config.json",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/mono-config.json"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/normalize.css",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/normalize.css"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/package.json",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/package.json"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/pal_random.lib.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/pal_random.lib.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/pinvoke.c",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/pinvoke.c"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/pinvoke.h",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/pinvoke.h"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/require.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/require.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/runtime.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/runtime.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/setImmediate.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/setImmediate.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-100.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-100.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-125.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-125.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-150.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-150.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-200.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-200.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-300.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-300.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-400.png",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/splash_screen.scale-400.png"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-assets.txt",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-assets.txt"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-bootstrap.css",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-bootstrap.css"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-bootstrap.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-bootstrap.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-config.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-config.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-lottie.js",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/uno-lottie.js"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/wasm-config.h",
+      "PackagePath": "staticwebassets/package_f555384e85655cd6cd9c050802dfedbc1de8b7cf/wasm-config.h"
+    },
+    {
+      "Id": "/workspace/UnoTest2/UnoTest2.Wasm/bin/Debug/net7.0/dist/service-worker.js",
+      "PackagePath": "staticwebassets/service-worker.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.UnoTest2.Wasm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.UnoTest2.Wasm.props",
+      "PackagePath": "build\\UnoTest2.Wasm.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.UnoTest2.Wasm.props",
+      "PackagePath": "buildMultiTargeting\\UnoTest2.Wasm.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.UnoTest2.Wasm.props",
+      "PackagePath": "buildTransitive\\UnoTest2.Wasm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
