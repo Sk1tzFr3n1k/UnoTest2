@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "_platforms_wasm.sln",
+    "projects": [
+      "_platforms_wasm.Tests\\_platforms_wasm.Tests.csproj",
+      "_platforms_wasm.UITests\\_platforms_wasm.UITests.csproj",
+      "_platforms_wasm.Wasm\\_platforms_wasm.Wasm.csproj",
+      "_platforms_wasm.Server\\_platforms_wasm.Server.csproj",
+      "_platforms_wasm.DataContracts\\_platforms_wasm.DataContracts.csproj",
+      "_platforms_wasm\\_platforms_wasm.csproj"
+    ]
+  }
+}

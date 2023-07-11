@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "_platforms_wasm",
+  "display": "standalone",
+  "name": "_platforms_wasm",
+  "short_name": "_platforms_wasm",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
