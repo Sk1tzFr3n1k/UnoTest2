@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "UnoTest2.sln",
+    "projects": [
+      "UnoTest2.Tests\\UnoTest2.Tests.csproj",
+      "UnoTest2.UITests\\UnoTest2.UITests.csproj",
+      "UnoTest2.Wasm\\UnoTest2.Wasm.csproj",
+      "UnoTest2.Server\\UnoTest2.Server.csproj",
+      "UnoTest2.DataContracts\\UnoTest2.DataContracts.csproj",
+      "UnoTest2\\UnoTest2.csproj"
+    ]
+  }
+}
